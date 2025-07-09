@@ -71,7 +71,7 @@ A desktop application built using Python's Tkinter library that calculates the *
 
 ### GUI Entry and Result Display
 
-![Screenshot 1](screenshots/UI_On_Load.png)
+![Screenshot 1](Screenshots/UI_On_Load.png)
 
 ### Result with Sample Calculation
 
